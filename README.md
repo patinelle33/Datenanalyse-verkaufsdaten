@@ -45,17 +45,16 @@ Außerdem wurde die monatliche Umsatzentwicklung untersucht, um stärkere und sc
 
 ```text
 Datenanalyse_Verkaufsdaten/
-│
-├── data/
-│ └── sales_data.csv
-│
-├── notebooks/
-│ └── analyse_verkaufsdaten.ipynb
-│
-├── images/
-│ ├── umsatzentwicklung.png
-│ ├── umsatz_nach_produkt.png
-│ └── umsatz_nach_region.png
-│
-├── README.md
-└── requirements.txt
+  data/
+    sales_data.csv
+
+  notebooks/
+  analyse_verkaufsdaten.ipynb
+
+ images/
+   umsatzentwicklung.png
+  umsatz_nach_produkt.png
+  umsatz_nach_region.png
+
+ README.md
+ requirements.txt
